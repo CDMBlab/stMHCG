@@ -1,5 +1,5 @@
 # stMHCG: stMHCG: high-confidence multi-view clustering leverages identification of spatial domains form spatially resolved transcriptomics
-![model](https://github.com/cs-wangbo/Spatial-MGCN/blob/master/Spatial-MGCN/result/Spatial-MGCN.png)
+![model]([https://github.com/cs-wangbo/Spatial-MGCN/blob/master/Spatial-MGCN/result/Spatial-MGCN.png](https://github.com/CDMBlab/stMHCG/blob/main/49262913f09e3f54a6170ce955d2380.png))
 ## Requirements 
 Python==3.8.19
 numpy==1.24.4
